@@ -11484,7 +11484,6 @@ header.masthead h1, header.masthead .h1 {
       transform: rotate(1turn)
   }
 }
-
 .mandala-container .mandala-rotate>svg {
   animation: rotation 500s linear infinite
 }
@@ -11601,4 +11600,10 @@ header.masthead h1, header.masthead .h1 {
   to {
       fill: var(--mandala-primary)
   }
+}
+
+.mandala{
+  width: 100%;
+  height: 100%;
+
 }
